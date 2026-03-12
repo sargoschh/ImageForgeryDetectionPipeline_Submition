@@ -12,7 +12,7 @@ A deep learning pipeline designed to identify manipulated images, classify the t
 
 ### Directories
 
-- **Data**: Contains the CASIA2 Dataset used for training and validation.
+- **Data**: Contains the CASIA2 Dataset used for training and validation. IMPORTANT: NOT UPLOADED TO GITHUB.
 
 - **ForgeryDetectionModelEfficientNet**: Storage for all serialized model weights and architecture configurations.
 
